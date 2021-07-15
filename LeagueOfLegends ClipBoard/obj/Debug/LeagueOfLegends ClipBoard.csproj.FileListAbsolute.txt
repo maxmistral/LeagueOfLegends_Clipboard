@@ -1,0 +1,26 @@
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.exe.config
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.exe
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.pdb
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\WindowsInput.dll
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\WindowsInput.xml
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends_ClipBoard.Properties.Resources.resources
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.CopyComplete
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.exe
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.pdb
+C:\Users\maxim\source\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends_ClipBoard.FRM_Main.resources
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.exe.config
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.exe
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\LeagueOfLegends ClipBoard.pdb
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\WindowsInput.dll
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\bin\Debug\WindowsInput.xml
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csprojAssemblyReference.cache
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends_ClipBoard.FRM_Main.resources
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends_ClipBoard.Properties.Resources.resources
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.GenerateResource.cache
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.CoreCompileInputs.cache
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.csproj.CopyComplete
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.exe
+D:\Maxime\repos\LeagueOfLegends ClipBoard\LeagueOfLegends ClipBoard\obj\Debug\LeagueOfLegends ClipBoard.pdb
